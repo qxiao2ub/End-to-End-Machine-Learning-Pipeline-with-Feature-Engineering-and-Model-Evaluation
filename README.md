@@ -1,4 +1,4 @@
-# End-to-End Machine Learning Pipeline with Feature Engineering and Model Evaluation (Problem 1)
+# End-to-End Machine Learning Pipeline with Feature Engineering and Model Evaluation
 
 ## 📌 Overview
 This notebook presents a complete machine learning workflow, including data preprocessing, feature engineering, model training, and performance evaluation. It demonstrates best practices for building reproducible and scalable ML pipelines.
